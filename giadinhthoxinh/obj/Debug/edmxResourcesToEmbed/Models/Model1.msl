@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="giadinhthoxinhEntitiesStoreContainer" CdmEntityContainer="giadinhthoxinhEntities1">
+    <EntitySetMapping Name="tblCategories">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblCategory">
+        <MappingFragment StoreEntitySet="tblCategory">
+          <ScalarProperty Name="PK_iCategoryID" ColumnName="PK_iCategoryID" />
+          <ScalarProperty Name="sCategoryName" ColumnName="sCategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCheckinDetails">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblCheckinDetail">
+        <MappingFragment StoreEntitySet="tblCheckinDetail">
+          <ScalarProperty Name="PK_iCheckinDetailID" ColumnName="PK_iCheckinDetailID" />
+          <ScalarProperty Name="FK_iImportOrderID" ColumnName="FK_iImportOrderID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="iQuatity" ColumnName="iQuatity" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCheckoutDetails">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblCheckoutDetail">
+        <MappingFragment StoreEntitySet="tblCheckoutDetail">
+          <ScalarProperty Name="PK_iCheckoutDetailID" ColumnName="PK_iCheckoutDetailID" />
+          <ScalarProperty Name="FK_iOrderID" ColumnName="FK_iOrderID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="iQuantity" ColumnName="iQuantity" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblImages">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblImage">
+        <MappingFragment StoreEntitySet="tblImage">
+          <ScalarProperty Name="PK_iImageID" ColumnName="PK_iImageID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="sImage" ColumnName="sImage" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblImportMaterials">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblImportMaterial">
+        <MappingFragment StoreEntitySet="tblImportMaterial">
+          <ScalarProperty Name="PK_iImportMaterialID" ColumnName="PK_iImportMaterialID" />
+          <ScalarProperty Name="FK_iImportOrderID" ColumnName="FK_iImportOrderID" />
+          <ScalarProperty Name="FK_iMaterialID" ColumnName="FK_iMaterialID" />
+          <ScalarProperty Name="iQuatity" ColumnName="iQuatity" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblImportOrders">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblImportOrder">
+        <MappingFragment StoreEntitySet="tblImportOrder">
+          <ScalarProperty Name="PK_iImportOrderID" ColumnName="PK_iImportOrderID" />
+          <ScalarProperty Name="FK_iAccountID" ColumnName="FK_iAccountID" />
+          <ScalarProperty Name="FK_iSupplierID" ColumnName="FK_iSupplierID" />
+          <ScalarProperty Name="dtDateAdded" ColumnName="dtDateAdded" />
+          <ScalarProperty Name="sDeliver" ColumnName="sDeliver" />
+          <ScalarProperty Name="iState" ColumnName="iState" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMaterColors">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblMaterColor">
+        <MappingFragment StoreEntitySet="tblMaterColor">
+          <ScalarProperty Name="PK_iMaterColorID" ColumnName="PK_iMaterColorID" />
+          <ScalarProperty Name="FK_iMaterialID" ColumnName="FK_iMaterialID" />
+          <ScalarProperty Name="sMaterColor" ColumnName="sMaterColor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMaterials">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblMaterial">
+        <MappingFragment StoreEntitySet="tblMaterial">
+          <ScalarProperty Name="PK_iMaterialID" ColumnName="PK_iMaterialID" />
+          <ScalarProperty Name="sMaterialName" ColumnName="sMaterialName" />
+          <ScalarProperty Name="sDescribe" ColumnName="sDescribe" />
+          <ScalarProperty Name="iQuatity" ColumnName="iQuatity" />
+          <ScalarProperty Name="sUnit" ColumnName="sUnit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMaterPriceImports">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblMaterPriceImport">
+        <MappingFragment StoreEntitySet="tblMaterPriceImport">
+          <ScalarProperty Name="PK_iMaterPriceImportID" ColumnName="PK_iMaterPriceImportID" />
+          <ScalarProperty Name="FK_iMaterialID" ColumnName="FK_iMaterialID" />
+          <ScalarProperty Name="fMaterPriceImport" ColumnName="fMaterPriceImport" />
+          <ScalarProperty Name="dtStartDay" ColumnName="dtStartDay" />
+          <ScalarProperty Name="dtEndDay" ColumnName="dtEndDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMaterSizes">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblMaterSize">
+        <MappingFragment StoreEntitySet="tblMaterSize">
+          <ScalarProperty Name="PK_iMaterSizeID" ColumnName="PK_iMaterSizeID" />
+          <ScalarProperty Name="FK_iMaterialID" ColumnName="FK_iMaterialID" />
+          <ScalarProperty Name="sMaterSize" ColumnName="sMaterSize" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOrders">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblOrder">
+        <MappingFragment StoreEntitySet="tblOrder">
+          <ScalarProperty Name="PK_iOrderID" ColumnName="PK_iOrderID" />
+          <ScalarProperty Name="FK_iAccountID" ColumnName="FK_iAccountID" />
+          <ScalarProperty Name="sCustomerName" ColumnName="sCustomerName" />
+          <ScalarProperty Name="sCustomerPhone" ColumnName="sCustomerPhone" />
+          <ScalarProperty Name="sDeliveryAddress" ColumnName="sDeliveryAddress" />
+          <ScalarProperty Name="dInvoidDate" ColumnName="dInvoidDate" />
+          <ScalarProperty Name="sBiller" ColumnName="sBiller" />
+          <ScalarProperty Name="iDeliveryMethod" ColumnName="iDeliveryMethod" />
+          <ScalarProperty Name="fSurcharge" ColumnName="fSurcharge" />
+          <ScalarProperty Name="iPaid" ColumnName="iPaid" />
+          <ScalarProperty Name="sState" ColumnName="sState" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPermissions">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblPermission">
+        <MappingFragment StoreEntitySet="tblPermission">
+          <ScalarProperty Name="PK_iPermissionID" ColumnName="PK_iPermissionID" />
+          <ScalarProperty Name="sPermissionName" ColumnName="sPermissionName" />
+          <ScalarProperty Name="iState" ColumnName="iState" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblProducts">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblProduct">
+        <MappingFragment StoreEntitySet="tblProduct">
+          <ScalarProperty Name="PK_iProductID" ColumnName="PK_iProductID" />
+          <ScalarProperty Name="FK_iCategoryID" ColumnName="FK_iCategoryID" />
+          <ScalarProperty Name="FK_iPromoteID" ColumnName="FK_iPromoteID" />
+          <ScalarProperty Name="sProductName" ColumnName="sProductName" />
+          <ScalarProperty Name="sDescribe" ColumnName="sDescribe" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+          <ScalarProperty Name="sColor" ColumnName="sColor" />
+          <ScalarProperty Name="sSize" ColumnName="sSize" />
+          <ScalarProperty Name="sImage" ColumnName="sImage" />
+          <ScalarProperty Name="sUnit" ColumnName="sUnit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblProductColors">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblProductColor">
+        <MappingFragment StoreEntitySet="tblProductColor">
+          <ScalarProperty Name="PK_iProductColorID" ColumnName="PK_iProductColorID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="sProductColor" ColumnName="sProductColor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblProductPrices">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblProductPrice">
+        <MappingFragment StoreEntitySet="tblProductPrice">
+          <ScalarProperty Name="PK_iProductPriceID" ColumnName="PK_iProductPriceID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+          <ScalarProperty Name="dtStartDay" ColumnName="dtStartDay" />
+          <ScalarProperty Name="dtEndDay" ColumnName="dtEndDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblProductSizes">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblProductSize">
+        <MappingFragment StoreEntitySet="tblProductSize">
+          <ScalarProperty Name="PK_iProductSizeID" ColumnName="PK_iProductSizeID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="sSizeName" ColumnName="sSizeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPromotes">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblPromote">
+        <MappingFragment StoreEntitySet="tblPromote">
+          <ScalarProperty Name="PK_iPromoteID" ColumnName="PK_iPromoteID" />
+          <ScalarProperty Name="sPromoteName" ColumnName="sPromoteName" />
+          <ScalarProperty Name="sPromoteRate" ColumnName="sPromoteRate" />
+          <ScalarProperty Name="dtStartDay" ColumnName="dtStartDay" />
+          <ScalarProperty Name="dtEndDay" ColumnName="dtEndDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblReviews">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblReview">
+        <MappingFragment StoreEntitySet="tblReview">
+          <ScalarProperty Name="PK_iReviewID" ColumnName="PK_iReviewID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="FK_iAccountID" ColumnName="FK_iAccountID" />
+          <ScalarProperty Name="iStarRating" ColumnName="iStarRating" />
+          <ScalarProperty Name="dtReviewTime" ColumnName="dtReviewTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSuppliers">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblSupplier">
+        <MappingFragment StoreEntitySet="tblSupplier">
+          <ScalarProperty Name="PK_iSupplierID" ColumnName="PK_iSupplierID" />
+          <ScalarProperty Name="sSupplierName" ColumnName="sSupplierName" />
+          <ScalarProperty Name="sPhone" ColumnName="sPhone" />
+          <ScalarProperty Name="sEmail" ColumnName="sEmail" />
+          <ScalarProperty Name="sAddress" ColumnName="sAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsers">
+      <EntityTypeMapping TypeName="giadinhthoxinhEntities.tblUser">
+        <MappingFragment StoreEntitySet="tblUser">
+          <ScalarProperty Name="PK_iAccountID" ColumnName="PK_iAccountID" />
+          <ScalarProperty Name="FK_iPermissionID" ColumnName="FK_iPermissionID" />
+          <ScalarProperty Name="sEmail" ColumnName="sEmail" />
+          <ScalarProperty Name="sPass" ColumnName="sPass" />
+          <ScalarProperty Name="sUserName" ColumnName="sUserName" />
+          <ScalarProperty Name="sPhone" ColumnName="sPhone" />
+          <ScalarProperty Name="sAddress" ColumnName="sAddress" />
+          <ScalarProperty Name="iState" ColumnName="iState" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="pro_getCategory" FunctionName="giadinhthoxinhEntities.Store.pro_getCategory">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.pro_getCategory_Result">
+          <ScalarProperty Name="PK_iCategoryID" ColumnName="PK_iCategoryID" />
+          <ScalarProperty Name="sCategoryName" ColumnName="sCategoryName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pro_getProduct" FunctionName="giadinhthoxinhEntities.Store.pro_getProduct">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.pro_getProduct_Result">
+          <ScalarProperty Name="PK_iProductID" ColumnName="PK_iProductID" />
+          <ScalarProperty Name="FK_iCategoryID" ColumnName="FK_iCategoryID" />
+          <ScalarProperty Name="FK_iPromoteID" ColumnName="FK_iPromoteID" />
+          <ScalarProperty Name="sProductName" ColumnName="sProductName" />
+          <ScalarProperty Name="sDescribe" ColumnName="sDescribe" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+          <ScalarProperty Name="sColor" ColumnName="sColor" />
+          <ScalarProperty Name="sSize" ColumnName="sSize" />
+          <ScalarProperty Name="sImage" ColumnName="sImage" />
+          <ScalarProperty Name="sUnit" ColumnName="sUnit" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pro_getPromote" FunctionName="giadinhthoxinhEntities.Store.pro_getPromote">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.pro_getPromote_Result">
+          <ScalarProperty Name="PK_iPromoteID" ColumnName="PK_iPromoteID" />
+          <ScalarProperty Name="sPromoteName" ColumnName="sPromoteName" />
+          <ScalarProperty Name="sPromoteRate" ColumnName="sPromoteRate" />
+          <ScalarProperty Name="dtStartDay" ColumnName="dtStartDay" />
+          <ScalarProperty Name="dtEndDay" ColumnName="dtEndDay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pro_getReceiver" FunctionName="giadinhthoxinhEntities.Store.pro_getReceiver">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.pro_getReceiver_Result">
+          <ScalarProperty Name="PK_iAccountID" ColumnName="PK_iAccountID" />
+          <ScalarProperty Name="sUserName" ColumnName="sUserName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pro_getSupplier" FunctionName="giadinhthoxinhEntities.Store.pro_getSupplier">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.pro_getSupplier_Result">
+          <ScalarProperty Name="PK_iSupplierID" ColumnName="PK_iSupplierID" />
+          <ScalarProperty Name="sSupplierName" ColumnName="sSupplierName" />
+          <ScalarProperty Name="sPhone" ColumnName="sPhone" />
+          <ScalarProperty Name="sEmail" ColumnName="sEmail" />
+          <ScalarProperty Name="sAddress" ColumnName="sAddress" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="proAddCategory" FunctionName="giadinhthoxinhEntities.Store.proAddCategory" />
+    <FunctionImportMapping FunctionImportName="proAddCheckoutDetail" FunctionName="giadinhthoxinhEntities.Store.proAddCheckoutDetail" />
+    <FunctionImportMapping FunctionImportName="proAddPermission" FunctionName="giadinhthoxinhEntities.Store.proAddPermission" />
+    <FunctionImportMapping FunctionImportName="proAddPromote" FunctionName="giadinhthoxinhEntities.Store.proAddPromote" />
+    <FunctionImportMapping FunctionImportName="proAddReview" FunctionName="giadinhthoxinhEntities.Store.proAddReview" />
+    <FunctionImportMapping FunctionImportName="proAddSupplier" FunctionName="giadinhthoxinhEntities.Store.proAddSupplier" />
+    <FunctionImportMapping FunctionImportName="proAddUser" FunctionName="giadinhthoxinhEntities.Store.proAddUser" />
+    <FunctionImportMapping FunctionImportName="procSelectCheckinDeatailrByID" FunctionName="giadinhthoxinhEntities.Store.procSelectCheckinDeatailrByID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.procSelectCheckinDeatailrByID_Result">
+          <ScalarProperty Name="PK_iCheckinDetailID" ColumnName="PK_iCheckinDetailID" />
+          <ScalarProperty Name="FK_iImportOrderID" ColumnName="FK_iImportOrderID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="iQuatity" ColumnName="iQuatity" />
+          <ScalarProperty Name="fPrice" ColumnName="fPrice" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="procSelectImageByID" FunctionName="giadinhthoxinhEntities.Store.procSelectImageByID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.procSelectImageByID_Result">
+          <ScalarProperty Name="PK_iImageID" ColumnName="PK_iImageID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="sImage" ColumnName="sImage" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="procSelectImportOrderByID" FunctionName="giadinhthoxinhEntities.Store.procSelectImportOrderByID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.procSelectImportOrderByID_Result">
+          <ScalarProperty Name="PK_iImportOrderID" ColumnName="PK_iImportOrderID" />
+          <ScalarProperty Name="FK_iAccountID" ColumnName="FK_iAccountID" />
+          <ScalarProperty Name="FK_iSupplierID" ColumnName="FK_iSupplierID" />
+          <ScalarProperty Name="dtDateAdded" ColumnName="dtDateAdded" />
+          <ScalarProperty Name="sDeliver" ColumnName="sDeliver" />
+          <ScalarProperty Name="iState" ColumnName="iState" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="procSelectUserByID" FunctionName="giadinhthoxinhEntities.Store.procSelectUserByID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.procSelectUserByID_Result">
+          <ScalarProperty Name="PK_iAccountID" ColumnName="PK_iAccountID" />
+          <ScalarProperty Name="FK_iPermissionID" ColumnName="FK_iPermissionID" />
+          <ScalarProperty Name="sEmail" ColumnName="sEmail" />
+          <ScalarProperty Name="sPass" ColumnName="sPass" />
+          <ScalarProperty Name="sUserName" ColumnName="sUserName" />
+          <ScalarProperty Name="sPhone" ColumnName="sPhone" />
+          <ScalarProperty Name="sAddress" ColumnName="sAddress" />
+          <ScalarProperty Name="iState" ColumnName="iState" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="proDeleteCategory" FunctionName="giadinhthoxinhEntities.Store.proDeleteCategory" />
+    <FunctionImportMapping FunctionImportName="proDeleteCheckinDetail" FunctionName="giadinhthoxinhEntities.Store.proDeleteCheckinDetail" />
+    <FunctionImportMapping FunctionImportName="proDeleteCheckoutDetail" FunctionName="giadinhthoxinhEntities.Store.proDeleteCheckoutDetail" />
+    <FunctionImportMapping FunctionImportName="proDeleteImage" FunctionName="giadinhthoxinhEntities.Store.proDeleteImage" />
+    <FunctionImportMapping FunctionImportName="proDeleteImportOrder" FunctionName="giadinhthoxinhEntities.Store.proDeleteImportOrder" />
+    <FunctionImportMapping FunctionImportName="proDeleteOrder" FunctionName="giadinhthoxinhEntities.Store.proDeleteOrder" />
+    <FunctionImportMapping FunctionImportName="proDeletePermission" FunctionName="giadinhthoxinhEntities.Store.proDeletePermission" />
+    <FunctionImportMapping FunctionImportName="proDeleteProduct" FunctionName="giadinhthoxinhEntities.Store.proDeleteProduct" />
+    <FunctionImportMapping FunctionImportName="proDeletePromote" FunctionName="giadinhthoxinhEntities.Store.proDeletePromote" />
+    <FunctionImportMapping FunctionImportName="proDeleteSupplier" FunctionName="giadinhthoxinhEntities.Store.proDeleteSupplier" />
+    <FunctionImportMapping FunctionImportName="proDeleteUser" FunctionName="giadinhthoxinhEntities.Store.proDeleteUser" />
+    <FunctionImportMapping FunctionImportName="proGetAllImageToDisplay" FunctionName="giadinhthoxinhEntities.Store.proGetAllImageToDisplay">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.proGetAllImageToDisplay_Result">
+          <ScalarProperty Name="PK_iImageID" ColumnName="PK_iImageID" />
+          <ScalarProperty Name="FK_iProductID" ColumnName="FK_iProductID" />
+          <ScalarProperty Name="sImage" ColumnName="sImage" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="proGetImageByIDToDisplay" FunctionName="giadinhthoxinhEntities.Store.proGetImageByIDToDisplay" />
+    <FunctionImportMapping FunctionImportName="proPermissionNameDisplayUser" FunctionName="giadinhthoxinhEntities.Store.proPermissionNameDisplayUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="giadinhthoxinhEntities.proPermissionNameDisplayUser_Result">
+          <ScalarProperty Name="PK_iPermissionID" ColumnName="PK_iPermissionID" />
+          <ScalarProperty Name="sPermissionName" ColumnName="sPermissionName" />
+          <ScalarProperty Name="iState" ColumnName="iState" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="proUpdateCategory" FunctionName="giadinhthoxinhEntities.Store.proUpdateCategory" />
+    <FunctionImportMapping FunctionImportName="proUpdateImportOrder" FunctionName="giadinhthoxinhEntities.Store.proUpdateImportOrder" />
+    <FunctionImportMapping FunctionImportName="proUpdatePermission" FunctionName="giadinhthoxinhEntities.Store.proUpdatePermission" />
+    <FunctionImportMapping FunctionImportName="proUpdatePromote" FunctionName="giadinhthoxinhEntities.Store.proUpdatePromote" />
+    <FunctionImportMapping FunctionImportName="proUpdateSupplier" FunctionName="giadinhthoxinhEntities.Store.proUpdateSupplier" />
+    <FunctionImportMapping FunctionImportName="proUpdateUser" FunctionName="giadinhthoxinhEntities.Store.proUpdateUser" />
+  </EntityContainerMapping>
+</Mapping>

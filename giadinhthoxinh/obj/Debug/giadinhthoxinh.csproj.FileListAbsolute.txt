@@ -1,0 +1,425 @@
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll.config
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.pdb
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe.config
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.rsp
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe.config
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.rsp
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.AppContext.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Console.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe.config
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.rsp
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\WebGrease.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.pdb
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CopyComplete
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.dll
+C:\Users\HP\source\repos\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.pdb
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll.config
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.pdb
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe.config
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.rsp
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe.config
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.rsp
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.AppContext.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Collections.Immutable.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Console.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Globalization.Calendars.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Http.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Sockets.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Reflection.Metadata.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.ValueTuple.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe.config
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.rsp
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe.config
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.Web.Infrastructure.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\WebGrease.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.pdb
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.AssemblyReference.cache
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CoreCompileInputs.cache
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CopyComplete
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.dll
+F:\DoAn\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.pdb
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll.config
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.pdb
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe.config
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.rsp
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe.config
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.rsp
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.AppContext.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Collections.Immutable.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Console.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Globalization.Calendars.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Http.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Sockets.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Reflection.Metadata.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.ValueTuple.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe.config
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.rsp
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe.config
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.Web.Infrastructure.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\WebGrease.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.pdb
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CoreCompileInputs.cache
+F:\DATN\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CopyComplete
+F:\DATN\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.pdb
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.SqlServer.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.SqlServer.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.AssemblyReference.cache
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\JetBrains.Annotations.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\PagedList.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\PagedList.Mvc.dll
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\JetBrains.Annotations.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\PagedList.xml
+F:\DATN\giadinhthoxinh\giadinhthoxinh\bin\PagedList.Mvc.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll.config
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.pdb
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe.config
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.rsp
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe.config
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.rsp
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.AppContext.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Collections.Immutable.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Console.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Globalization.Calendars.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Http.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Sockets.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Reflection.Metadata.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.ValueTuple.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe.config
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.rsp
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe.config
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.SqlServer.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\JetBrains.Annotations.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.Web.Infrastructure.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\PagedList.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\PagedList.Mvc.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\WebGrease.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.SqlServer.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\JetBrains.Annotations.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\PagedList.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\PagedList.Mvc.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.pdb
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CoreCompileInputs.cache
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CopyComplete
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.dll
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.pdb
+F:\DATN-New\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.AssemblyReference.cache
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll.config
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\giadinhthoxinh.pdb
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.exe.config
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csc.rsp
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.exe.config
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\csi.rsp
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.AppContext.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Collections.Immutable.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Console.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Globalization.Calendars.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Http.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Net.Sockets.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Reflection.Metadata.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.ValueTuple.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.exe.config
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\vbc.rsp
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\roslyn\VBCSCompiler.exe.config
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.SqlServer.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\JetBrains.Annotations.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.Web.Infrastructure.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\PagedList.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\PagedList.Mvc.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\WebGrease.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\EntityFramework.SqlServer.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\JetBrains.Annotations.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\PagedList.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\PagedList.Mvc.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Helpers.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Mvc.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Optimization.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.Razor.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Deployment.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\System.Web.WebPages.Razor.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Newtonsoft.Json.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Antlr3.Runtime.pdb
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.AssemblyReference.cache
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CoreCompileInputs.cache
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.csproj.CopyComplete
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.dll
+D:\Làm thuê\web ban phu kien aspnet\DATN-NEW-1-master\giadinhthoxinh\giadinhthoxinh\obj\Debug\giadinhthoxinh.pdb

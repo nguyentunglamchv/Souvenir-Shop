@@ -1,0 +1,228 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Gia Đình Thỏ Xinh</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Colo Shop Template">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="~/Content/assets/styles/bootstrap4/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/OwlCarousel2-2.2.1/owl.carousel.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" rel="stylesheet" />
+    <link href="~/Content/assets/plugins/OwlCarousel2-2.2.1/animate.css" rel="stylesheet" />
+    <link href="~/Content/assets/styles/main_styles.css" rel="stylesheet" />
+    <link href="~/Content/assets/styles/responsive.css" rel="stylesheet" />
+    <link href="~/Content/assets/styles/Index1.css" rel="stylesheet" />
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="super_container">
+        <header class="header trans_300">
+
+            @*<div class="top_nav">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="top_nav_left">Miễn phí vận chuyển đơn hàng từ 60k</div>
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <div class="top_nav_right">
+                                    <ul class="top_nav_menu">
+
+
+
+                                        <li class="currency">
+                                            <a href="#">
+                                                VNĐ
+                                                <i class="fa fa-angle-down"></i>
+                                            </a>
+                                            <ul class="currency_selection">
+                                                    <li><a href="#">EURO</a></li>
+                                                    <li><a href="#">USD</a></li>
+                                                </ul>
+                                        </li>
+                                        <li class="language">
+                                            <a href="#">
+                                                Tiếng Việt
+                                                <i class="fa fa-angle-down"></i>
+                                            </a>
+                                            <ul class="language_selection">
+                                                    <li><a href="#">Tiếng Anh</a></li>
+                                                    <li><a href="#">Tiếng Pháp</a></li>
+                                                </ul>
+                                        </li>
+                                        <li class="account">
+                                            <a href="#">
+                                                Tài Khoản
+                                                <i class="fa fa-angle-down"></i>
+                                            </a>
+                                            <ul class="account_selection">
+                                                <li style="padding: 0;"><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i>Đăng nhập</a></li>
+                                                <li style="padding: 0;"><a href="#"><i class="fa fa-user-plus" aria-hidden="true"></i>Đăng ký</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>*@
+
+            <!-- Main Navigation -->
+
+            <div class="main_nav_container color-main" style="background-color: #ffd74b;">
+                <div class="container" style="height: 85px;">
+                    <div class="row">
+                        <div class="col-lg-12 text-right">
+                            <div class="logo_container text-center" style=" top: 38%;">
+                                @*<a href="#">colo<span>shop</span></a>*@
+                                <a href="/home/index"><img src="~/Content/assets/images/logo.jpg" class="img-logo" /></a>
+                                @*<span style="margin-left: 6px;" class="h4 fw-bold mb-0">Gia Đình Thỏ Xinh</span>*@
+                                <a href="/home/index" class="color-name" style="text-decoration: none"><h4 style="margin: 2px 0; text-transform: none; font-size: 15px;" class="color-name">Gia Đình Thỏ Xinh</h4></a>
+                            </div>
+                            <nav class="navbar">
+                                <ul class="navbar_menu">
+                                    <li><a href="/home/index">Trang chủ</a></li>
+
+                                    <li><a href="/home/promote">Khuyến mãi</a></li>
+                                    <li><a href="/home/about">Giới thiệu</a></li>
+                                    @*<li><a href="/home/contact">Liên hệ</a></li>*@
+                                    @*<li><a href="contact.html">contact</a></li>*@
+                                </ul>
+                                <ul class="navbar_user" style="width: 500px; display: flex; justify-content: space-between;">
+                                    @using (Html.BeginForm("Search", "Home", FormMethod.Get))
+                                    {
+
+
+                                    <div style="width=100px">
+
+                                        @if (Session["Search"] != null)
+                                        {
+                                    <input class="form-control" name="searchString" type="text" placeholder="Tìm kiếm sản phẩm" value=" @Session["Search"].ToString()"> }
+                                         else
+                                        {
+                                    <input class="form-control" name="searchString" type="text" placeholder="Tìm kiếm sản phẩm" >
+                                        }
+
+
+
+
+                                    </div>
+                                    }
+
+                                    @*<li><a href="#"><i class="fa fa-user" aria-hidden="true"></i></a></li>*@
+
+                                    @*<li class="account" style="background-color: transparent; padding-left: 0">
+                        <a href="#">
+                            TK
+                            <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="account_selection">
+                            <li style="padding: 0;"><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i>ĐN</a></li>
+                            <li style="padding: 0;"><a href="#"><i class="fa fa-user-plus" aria-hidden="true"></i>ĐK</a></li>
+                        </ul>
+                    </li>*@
+                                    @{ var u = Session["User"] as giadinhthoxinh.Models.tblUser; }
+
+
+
+                                    @Html.Action("AccountPartial", "User")
+
+                                    @Html.Action("CartPartial", "Cart")
+                                    </ul>
+                                    <div class="hamburger_container">
+                                        <i class="fa fa-bars" aria-hidden="true"></i>
+                                    </div>
+                                    </nav>
+                                </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+        @*<div class="fs_menu_overlay"></div>
+            <div class="hamburger_menu">
+                <div class="hamburger_close"><i class="fa fa-times" aria-hidden="true"></i></div>
+                <div class="hamburger_menu_content text-right">
+                    <ul class="menu_top_nav">
+                        <li class="menu_item has-children">
+                            <a href="#">
+                                usd
+                                <i class="fa fa-angle-down"></i>
+                            </a>
+                            <ul class="menu_selection">
+                                <li><a href="#">cad</a></li>
+                                <li><a href="#">aud</a></li>
+                                <li><a href="#">eur</a></li>
+                                <li><a href="#">gbp</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu_item has-children">
+                            <a href="#">
+                                English
+                                <i class="fa fa-angle-down"></i>
+                            </a>
+                            <ul class="menu_selection">
+                                <li><a href="#">French</a></li>
+                                <li><a href="#">Italian</a></li>
+                                <li><a href="#">German</a></li>
+                                <li><a href="#">Spanish</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu_item has-children">
+                            <a href="#">
+                                My Account
+                                <i class="fa fa-angle-down"></i>
+                            </a>
+                            <ul class="menu_selection">
+                                <li><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li>
+                                <li><a href="#"><i class="fa fa-user-plus" aria-hidden="true"></i>Register</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu_item"><a href="#">home</a></li>
+                        <li class="menu_item"><a href="#">shop</a></li>
+                        <li class="menu_item"><a href="#">promotion</a></li>
+                        <li class="menu_item"><a href="#">pages</a></li>
+                        <li class="menu_item"><a href="#">blog</a></li>
+                        <li class="menu_item"><a href="#">contact</a></li>
+                    </ul>
+                </div>
+            </div>*@
+
+        <div class="body-content">
+            @RenderBody()
+        </div>
+
+
+
+        <!-- Footer -->
+        <footer class="footer color-main under-footer">
+                <div class="row">
+                    <div class="col-lg-12 d-flex flex-row align-items-center justify-content-center">
+                        @*<div class="footer_nav_container">*@
+                            <div class="cr py-4 color-name"><a class="color-name" style="font-size: 18px;" href="/home/index">Đồ đan móc len <i class="fa fa-heart-o" aria-hidden="true"></i> GiaDinhThoXinh</a></div>
+                        @*</div>*@
+                    </div>
+                </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/Content/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="~/Content/assets/styles/bootstrap4/popper.js"></script>
+    <script src="~/Content/assets/styles/bootstrap4/bootstrap.min.js"></script>
+    <script src="~/Content/assets/plugins/Isotope/isotope.pkgd.min.js"></script>
+    <script src="~/Content/assets/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+    <script src="~/Content/assets/plugins/easing/easing.js"></script>
+    <script src="~/Content/assets/js/custom.js"></script>
+
+</body>
+</html>

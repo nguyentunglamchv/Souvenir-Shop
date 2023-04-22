@@ -1,0 +1,192 @@
+﻿
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/assets/styles/checkout.css" rel="stylesheet" />
+
+<section class="h-100 gradient-custom" style="background-color: #8fc4b7">
+    <div class="container py-5">
+        <div class="row d-flex justify-content-center my-4">
+            <div class="col-md-6">
+                <div class="card mb-4">
+                    <div class="card-header py-3">
+                        <h4 class="mb-0">Thông tin đơn hàng</h4>
+                    </div>
+                    @using (Html.BeginForm("DatHang", "Cart", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                <div class="card-body">
+
+                    <div class="card-body p-4 p-md-5">
+
+                        @*<div class="form-outline mb-3 ">
+                <input type="text" id="form3Example1q" class="form-control mx-auto width-input" placeholder="Email (tùy chọn)" />
+            </div>*@
+                        <div class="form-outline mb-4 ">
+
+                            <input type="text" id="sCustomerName" name="sCustomerName" class="form-control mx-auto width-input" placeholder="Họ và tên" value="@ViewBag.NguoiNhan.sUserName" />
+                            @*<label class="form-label" for="form3Example1q">Name</label>*@
+                        </div>
+                        <div class="form-outline mb-4">
+
+                            <input type="text" id="sCustomerPhone" name="sCustomerPhone" class="form-control mx-auto width-input" placeholder="SĐT" value="@ViewBag.NguoiNhan.sPhone" />
+                        </div>
+                        <div class="form-outline mb-4">
+                            <input type="text" id="sDeliveryAddress" name="sDeliveryAddress" class="form-control mx-auto width-input" placeholder="Địa chỉ" value="@ViewBag.NguoiNhan.sAddress" />
+                        </div>
+                        <div class="form-outline mb-4">
+                            <input type="text" id="form3Example1q" class="form-control mx-auto width-input" placeholder="Email" value="@ViewBag.NguoiNhan.sEmail" />
+                        </div>
+                        <div class="form-outline mb-4">
+                            <textarea rows="4" cols="50" id="form3Example1q" class="form-control mx-auto width-input" style="justify-content:center">Ghi chú (tùy chọn) </textarea>
+                        </div>
+
+                        <div class="mx-auto width-input py-2 checkout-method px-md-4 ">
+                            <div class="align-center">
+                                <div>
+                                    <input class="mt-3" type="radio" id="transfer" name="iDeliveryMethod" value="0">
+                                    <label for="transfer">&nbsp;Chuyển khoản</label><br>
+                                </div>
+                                <div><i class="fa fa-money text-primary" aria-hidden="true"></i></div>
+                            </div>
+
+                            <hr class="my-0" />
+
+                            <div class="mt-1 align-center">
+                                <div>
+                                    <input class="mt-2" type="radio" id="cash" name="iDeliveryMethod" value="1">
+                                    <label for="cash">&nbsp;Thanh toán khi nhận hàng</label><br>
+                                </div>
+                                <div><i class="fa fa-money text-primary" aria-hidden="true"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="card-body checkout-method px-md-4 mt-4">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0">
+                                    Giá sản phẩm:
+                                    <span>0 vnđ</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                                    Giá ship:
+                                    <span>miễn phí</span>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 mb-3">
+                                    <div>
+                                        <strong>Tổng tiền</strong>
+                                        <strong>
+                                            @*<p class="mb-0">(bao gồm VAT)</p>*@
+                                        </strong>
+                                    </div>
+                                    <span><strong>@ViewBag.TongTien</strong></span>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="align-center mt-5">
+                            <p>
+                                <a href="/cart/cart">
+                                    <input type="button" value="Quay về giỏ hàng" class="btn color-main progress-return" style="border: none" />
+                                </a>
+                            </p>
+                            <p>
+                                <a href="#">
+                                    <input type="submit" value="Thanh toán" class="btn bg-primary progress-checkout" style="border: none" />
+
+                                </a>
+                            </p>
+                        </div>
+
+                    </div>
+
+
+
+                </div>}
+
+                </div>
+            </div>
+            <!--<div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-header py-3">
+                        <h5 class="mb-0">Tóm tắt đơn hàng</h5>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0">
+                                Giá sản phẩm:
+                                <span>0 vnđ</span>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                                Giá ship:
+                                <span>miễn phí</span>
+                            </li>
+                            <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 mb-3">
+                                <div>
+                                    <strong>Tổng tiền</strong>
+                                    <strong>-->
+                                        @*<p class="mb-0">(bao gồm VAT)</p>*@
+                                    <!--</strong>
+                                </div>
+                                <span><strong>0 vnđ</strong></span>
+                            </li>
+                        </ul>
+
+                        <div class="align-center">
+                            <p>
+                                <a href="/cart/cart">
+                                    <button type="button" class="btn color-main progress-return" style="border: none">
+                                        Quay về giỏ hàng
+                                    </button>
+                                </a>
+                            </p>
+                            <p>
+                                <a href="#">
+                                    <button type="button" class="btn bg-primary progress-checkout" style="border: none">
+                                        Thanh toán
+                                    </button>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+﻿@model giadinhthoxinh.Models.tblUser
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="bg-content-main" style="width: 100vw; height: 100vh;">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col col-xl-10">
+                <div class="card " style="border-radius: 1rem;">
+                    <div class="row g-0">
+                        <div class="col-md-6 col-lg-5 d-none d-md-block">
+                            <img src="~/Content/assets/images/logo/logo-login.jpg"
+                                 alt="login form" class="img-fluid" style="border-radius: 1rem 0 0 1rem;" />
+                        </div>
+                        <div class="col-md-6 col-lg-7 d-flex align-items-center">
+                            <div class="card-body p-4 p-lg-5 text-black">
+
+                                <!--<form>
+
+                                <div class="d-flex align-items-center mb-3 pb-1">
+                                    <img src="~/Content/assets/images/logo/logo.jpg" class="img-logo" style="width: 50px; height:50px; " />-->
+                                @*<i class="fas fa-cubes fa-2x me-3" style="color: #ff6219;"></i>*@
+                                <!--<h4><span style="margin-left: 6px;" class="color-name">Gia Đình Thỏ Xinh</span></h4>
+                                </div>
+
+                                <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Đăng nhập bằng tài khoản của bạn</h5>
+
+                                <div class="form-outline mb-4">
+                                    <input type="email" id="form2Example17" class="form-control form-control-lg" placeholder="Địa chỉ Email"/>-->
+                                @*<label class="form-label" for="form2Example17">Địa chỉ Email</label>*@
+                                <!--</div>
+
+                                <div class="form-outline mb-4">
+                                    <input type="password" id="form2Example27" class="form-control form-control-lg" placeholder="Mật khẩu" />-->
+                                @*<label class="form-label" for="form2Example27">Mật khẩu</label>*@
+                                <!--</div>
+
+                                    <div class="pt-1 mb-4">
+                                        <button class="btn color-main btn-lg btn-block" type="button">Đăng nhập</button>
+                                    </div>
+
+                                    <a class="small text-muted " href="#"><u class="text-primary">Lấy lại mật khẩu?</u></a>
+                                    <h5 class="mb-1 pb-lg-2" style="color: #393f81; font-size: 13px;">
+                                        Bạn chưa có tài khoản? Vui lòng đăng ký tài khoản mới <a href="/user/register"><b class="color-text">tại đây</b></a>
+                                    </h5>
+                                </form>-->
+                                @using (Html.BeginForm("login", "user", FormMethod.Post))
+                                {
+                                    @Html.AntiForgeryToken()
+                                    <div class="form-group">
+                                        Email
+                                        @Html.TextBoxFor(m => m.sEmail, "", new { @class = "form-control", @placeholder = "Email"})
+
+                                    </div>
+                                    <div class="form-group">
+                                        Password
+                                        @Html.PasswordFor(m => m.sPass, new { @class = "form-control", @placeholder = "Password"})
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="submit" name="submit" class="btn btn-primary" value="Đăng nhập" />
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
